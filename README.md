@@ -6,7 +6,7 @@ Aspiring Full-Stack Developer | DSA Enthusiast
 ### 👋 About Me
 
 * 💻 I specialize in **MERN stack** development with **Tailwind CSS** and **shadcn/ui** for rapid, scalable UIs.
-* 🔥 I use **Firebase** for authentication and real-time data, and **MySQL** for structured backend databases.
+* 🔥 I use **Firebase** for authentication and real-time data, and **MySQL** and **MonogDB** for structured backend databases.
 * 📚 I'm passionate about **Data Structures & Algorithms** and have solved **\~900 problems** using **Python**.
 * 🚀 Always eager to learn new technologies and contribute to open-source projects.
 
@@ -17,7 +17,7 @@ Aspiring Full-Stack Developer | DSA Enthusiast
 | Frontend       | Backend       | Database | Tools & Platforms |
 | -------------- | ------------- | -------- | ----------------- |
 | React 🌐       | Node.js 🟢    | MySQL 🐬 | Firebase 🔥       |
-| Next.js 🌐     | Express.js 🚂 |          | Git & GitHub      |
+| Next.js 🌐     | Express.js 🚂 | MongoDB   | Git & GitHub      |
 | Tailwind CSS ✨ |               |          | VS Code           |
 | shadcn/ui 🧩   |               |          | Postman           |
 
@@ -25,7 +25,7 @@ Aspiring Full-Stack Developer | DSA Enthusiast
 
 ### 📈 DSA Achievements
 
-* Solved **\~900** algorithmic challenges on platforms such as LeetCode, CodeChef, and HackerRank.
+* Solved **\~900** algorithmic challenges on platforms such as LeetCode, GeeksForGeeks.
 * Proficient in **Python** for solving complex problems with efficient time and space complexity.
 * Familiar with techniques like **Dynamic Programming**, **Greedy Algorithms**, **Graphs**, **Trees**, and **Backtracking**.
 
@@ -35,9 +35,9 @@ Aspiring Full-Stack Developer | DSA Enthusiast
 
 > *Coming soon...*
 
-* **Project A**: Brief description of a MERN-based web application.
-* **Project B**: Brief description of a Tailwind/shadcn UI frontend.
-* **Project C**: Brief description of a full-stack app with Firebase auth and MySQL.
+* **Project A**: ECommerce site appliication using MERN.
+* **Project B**: LMS web application using MERN.
+* **Project C**: SkillCascade - connecting the educational peers together.
 
 *Full details and source code will be updated here as I build more projects.*
 
@@ -45,9 +45,8 @@ Aspiring Full-Stack Developer | DSA Enthusiast
 
 ### 📫 Get in Touch
 
-* 📧 Email: `your.email@example.com`
-* 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+* 📧 Email: `pailakarthik1933@gmail.com`
+* 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/paila-karthik)
 
 ---
 
